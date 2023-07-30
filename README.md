@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Maryam 🍀</h1>
-<h3 align="left">I am interested in Data Analysis,UX/UI, Web Development and AI 🤹🏻</h3>
+<h1 align="left">Hi 🙋🏻‍♀️, I'm Maryam 🍀</h1>
+<h3 align="left">I am interested in Data Analysis, UX/UI, Web Development and AI </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
