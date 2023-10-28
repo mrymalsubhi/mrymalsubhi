@@ -1,6 +1,6 @@
 * 👋🏻 Hello!
 * 🌟 Welcome to my Github profile
-* 🍀 I'm Maryam,Computer Science graduate 
+* 🍀 I'm Maryam, Computer Science graduate 
 * 💫 I'm here to share new-fun stuff
 
 
