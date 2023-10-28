@@ -1,7 +1,6 @@
-* Hello!
-* Welcom to my Github profile 
-* I'm Maryam
-* Computer Science graduate
-* I'm here to share new-fun stuff
-https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif![image](https://github.com/mrymalsubhi/mrymalsubhi/assets/85639068/dbbfcfd4-5b52-48c5-bf1a-c0664fa281a2)
+* Hello!🙋🏻‍♀️
+* Welcome to my Github profile 🌟
+* I'm Maryam,Computer Science graduate 👩🏻‍💻
+* I'm here to share new-fun stuff 🤩
+![Sailor Moon](https://github.com/mrymalsubhi/mrymalsubhi/assets/85639068/f13a8128-e895-4f54-8a7b-fb534d1ba37a)
 
