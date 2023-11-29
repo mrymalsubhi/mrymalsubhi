@@ -1,6 +1,26 @@
-* 👋🏻 Hello!
-* 🌟 Welcome to my Github profile
-* 🍀 I'm Maryam, Computer Science graduate 
-* 💫 I'm here to share new-fun stuff
+html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* Style the moving text */
+@keyframes movingText {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+}
 
-![Sailor Moon](https://github.com/mrymalsubhi/mrymalsubhi/assets/85639068/31c4b6f5-e09f-455f-9336-c49937879e60)
+/* Style the text and set animation properties */
+.text {
+    color: #FF69B4; /* Set the text color */
+    font-size: 24px;
+    text-align: center;
+    animation: movingText 8s linear infinite;
+}
+</style>
+</head>
+<body>
+<h1 class="text">Welcome to my GitHub profile</h1>
+<h2 class="text">I am Maryam Alsubhi</h2>
+<h3 class="text">I am a data analyst</h3>
+</body>
+</html>
