@@ -1,26 +1,13 @@
-html
-<!DOCTYPE html>
-<html>
-<head>
+markdown
+<div align="center">
+  <h1 style="color: #FF69B4; animation: movingText 8s linear infinite;">Welcome to my GitHub profile</h1>
+  <h2 style="color: #00BFFF; animation: movingText 8s linear infinite;">I am Maryam Alsubhi</h2>
+  <h3 style="color: #32CD32; animation: movingText 8s linear infinite;">I am a data analyst</h3>
+</div>
+
 <style>
-/* Style the moving text */
 @keyframes movingText {
     0% { transform: translateX(-100%); }
     100% { transform: translateX(100%); }
 }
-
-/* Style the text and set animation properties */
-.text {
-    color: #FF69B4; /* Set the text color */
-    font-size: 24px;
-    text-align: center;
-    animation: movingText 8s linear infinite;
-}
 </style>
-</head>
-<body>
-<h1 class="text">Welcome to my GitHub profile</h1>
-<h2 class="text">I am Maryam Alsubhi</h2>
-<h3 class="text">I am a data analyst</h3>
-</body>
-</html>
